@@ -6,9 +6,9 @@
 Consulta el saldo, los datos, los minutos y los mensajes de tus líneas Cubacel desde Android. Compatible con SIM personales y corporativas.
 
 **Creador:** [deborahfam](https://github.com/deborahfam)  
-**Última versión estable:** 0.6.21
+**Última versión estable:** 0.6.22
 
-[**Descargar SIMple para Android**](https://github.com/deborahfam/app-releases/releases/download/simple-stable/SIMple-30.apk)
+[**Descargar SIMple para Android**](https://github.com/deborahfam/app-releases/releases/download/simple-stable/SIMple-31.apk)
 <!-- app:simple:end -->
 
 <!-- app:keepr:start -->
