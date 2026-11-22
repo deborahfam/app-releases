@@ -4,6 +4,7 @@ Repositorio público de distribución para las aplicaciones de deborahfam. Conti
 
 ## Aplicaciones
 
+- **[Keepr](apps/keepr/README.md)** — [descargar versión estable](https://github.com/deborahfam/app-releases/releases/tag/keepr-stable).
 - **[SIMple](apps/simple/README.md)** — [descargar versión estable](https://github.com/deborahfam/app-releases/releases/tag/simple-stable).
 
 Cada aplicación tiene su propio identificador y canal. No uses `/releases/latest`: devuelve la última publicación del repositorio entero y puede pertenecer a otra aplicación.
